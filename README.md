@@ -23,5 +23,8 @@ DockerFile's exist for both the backend and frontend that will perform the neces
 - Point your browser to http://localhost:3000/
 - Watch the queue messages change every 10 seconds. As they retrieved, they are removed from the queue.  
 
+
+Accompanying tutorial available at https://tucanoo.com/integrating-apache-kafka-with-react-spring-boot-a-dockerized-tutorial/
+
 Developed by [Tucanoo Solutions LTD](https://tucanoo.com) 
 

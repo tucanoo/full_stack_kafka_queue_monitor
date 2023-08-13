@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import KafkaMonitor from "./components/KafkaMonitor.jsx";
 function App() {
   return (
